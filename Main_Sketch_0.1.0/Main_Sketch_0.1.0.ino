@@ -1,3 +1,13 @@
+// Funktionsdeklaration:
+  // Funktion_1: Temperatur auslesen
+  // Funktion_2: Lichtstärke auslesen
+  // Funktion_3: Stepper
+  // Funktion_4: Servo
+  // Funktion_5: Luftfeuchtigkeit auslesen
+  // Funktion_6: Displayausgabe
+  // Funktion_7: Ladestatus
+  // Funktion_8: Manuelle Steuerung
+  // Funktion_9: Menü
 void setup() {
   // put your setup code here, to run once:
 
